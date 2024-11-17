@@ -1,0 +1,18 @@
+{
+  "empAddDetails": [
+    {
+      "id": "581a",
+      "empID": "001",
+      "empName": "Twinkle",
+      "empEmail": "twinkle@gmail.com",
+      "empStatus": "Active"
+    },
+    {
+      "empID": "002",
+      "empName": "Ravi",
+      "empEmail": "ravi@gmail.com",
+      "empStatus": "Active",
+      "id": "GvMGYoq"
+    }
+  ]
+}
